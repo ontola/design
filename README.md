@@ -19,3 +19,10 @@ _Brand guidelines, logo's, material_
 
 Logo's and cover images can be found in [`/assets`](/assets). 
 Source material is on [Figma](https://www.figma.com/file/NlZaIRm7AvOPDvRMFvEWnZ/Ontola-styleguide-and-logo?node-id=0%3A1).
+
+## Reports & templates
+
+Available only for Ontola employees in drive:
+
+- [Report](https://drive.google.com/open?id=1sW54PJTINKKKdR9H-qLg-A17MTQkVczZzpbilVueKg4)
+- [Quaotation](https://docs.google.com/document/d/1hRt41FSaElxKZSxNp4JLCr85DHP9x741dZJJ040i9Gk/edit)
